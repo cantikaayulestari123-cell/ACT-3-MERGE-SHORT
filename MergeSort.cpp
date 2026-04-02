@@ -89,3 +89,7 @@ void mergesort(int low, int high)
         arr[x] = B[x];
     }
 }
+void output()
+{
+    
+}
