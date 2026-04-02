@@ -8,5 +8,6 @@ int n;
 
 void input()
 {
+    while (true)
     
 }
